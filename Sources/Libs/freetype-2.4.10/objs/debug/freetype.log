@@ -1,0 +1,155 @@
+﻿La génération a démarré 01/09/2015 18:01:23.
+     1>Projet "C:\Users\f.fournel\Documents\Visual Studio 2013\Projects\CollisionEngine\Libs\freetype-2.4.10\builds\win32\visualc\freetype.vcxproj" sur le nœud 2 (Build cible(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I..\..\..\include /Zi /nologo /W4 /WX- /Od /Oy- /D _DEBUG /D WIN32 /D _LIB /D FT_DEBUG_LEVEL_ERROR /D FT_DEBUG_LEVEL_TRACE /D FT2_BUILD_LIBRARY /D _VC80_UPGRADE=0x0710 /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Za /Zc:wchar_t /Zc:forScope /Fo".\..\..\..\objs\debug/" /Fd".\..\..\..\objs\debug/vc120.pdb" /Gd /TC /analyze- /errorReport:prompt ..\..\..\src\autofit\autofit.c ..\..\..\src\base\ftbase.c ..\..\..\src\base\ftbbox.c ..\..\..\src\base\ftbitmap.c ..\..\..\src\base\ftfstype.c ..\..\..\src\base\ftgasp.c ..\..\..\src\base\ftglyph.c ..\..\..\src\base\ftgxval.c ..\..\..\src\base\ftinit.c ..\..\..\src\base\ftlcdfil.c ..\..\..\src\base\ftmm.c ..\..\..\src\base\ftotval.c ..\..\..\src\base\ftpatent.c ..\..\..\src\base\ftpfr.c ..\..\..\src\base\ftstroke.c ..\..\..\src\base\ftsynth.c ..\..\..\src\base\ftsystem.c ..\..\..\src\base\fttype1.c ..\..\..\src\base\ftwinfnt.c ..\..\..\src\base\ftxf86.c ..\..\..\src\bdf\bdf.c ..\..\..\src\cache\ftcache.c ..\..\..\src\cff\cff.c ..\..\..\src\cid\type1cid.c ..\..\..\src\gzip\ftgzip.c ..\..\..\src\lzw\ftlzw.c ..\..\..\src\pcf\pcf.c ..\..\..\src\pfr\pfr.c ..\..\..\src\psaux\psaux.c ..\..\..\src\pshinter\pshinter.c ..\..\..\src\psnames\psmodule.c ..\..\..\src\raster\raster.c ..\..\..\src\sfnt\sfnt.c ..\..\..\src\smooth\smooth.c ..\..\..\src\truetype\truetype.c ..\..\..\src\type1\type1.c ..\..\..\src\type42\type42.c ..\..\..\src\winfonts\winfnt.c
+         autofit.c
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\sal.h(156): warning C4001: extension non standard "commentaire sur une seule ligne" utilisée
+         ftbase.c
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\sal.h(156): warning C4001: extension non standard "commentaire sur une seule ligne" utilisée
+     1>c:\users\f.fournel\documents\visual studio 2013\projects\collisionengine\libs\freetype-2.4.10\src\base\ftrfork.c(798): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(195) : voir la déclaration de 'strncpy'
+     1>c:\users\f.fournel\documents\visual studio 2013\projects\collisionengine\libs\freetype-2.4.10\src\base\ftrfork.c(808): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(118) : voir la déclaration de 'strcat'
+     1>c:\users\f.fournel\documents\visual studio 2013\projects\collisionengine\libs\freetype-2.4.10\src\base\ftrfork.c(809): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(118) : voir la déclaration de 'strcat'
+         ftbbox.c
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\sal.h(156): warning C4001: extension non standard "commentaire sur une seule ligne" utilisée
+         ftbitmap.c
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\sal.h(156): warning C4001: extension non standard "commentaire sur une seule ligne" utilisée
+         ftfstype.c
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\sal.h(156): warning C4001: extension non standard "commentaire sur une seule ligne" utilisée
+         ftgasp.c
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\sal.h(156): warning C4001: extension non standard "commentaire sur une seule ligne" utilisée
+         ftglyph.c
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\sal.h(156): warning C4001: extension non standard "commentaire sur une seule ligne" utilisée
+         ftgxval.c
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\sal.h(156): warning C4001: extension non standard "commentaire sur une seule ligne" utilisée
+         ftinit.c
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\sal.h(156): warning C4001: extension non standard "commentaire sur une seule ligne" utilisée
+         ftlcdfil.c
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\sal.h(156): warning C4001: extension non standard "commentaire sur une seule ligne" utilisée
+         ftmm.c
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\sal.h(156): warning C4001: extension non standard "commentaire sur une seule ligne" utilisée
+         ftotval.c
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\sal.h(156): warning C4001: extension non standard "commentaire sur une seule ligne" utilisée
+         ftpatent.c
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\sal.h(156): warning C4001: extension non standard "commentaire sur une seule ligne" utilisée
+         ftpfr.c
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\sal.h(156): warning C4001: extension non standard "commentaire sur une seule ligne" utilisée
+         ftstroke.c
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\sal.h(156): warning C4001: extension non standard "commentaire sur une seule ligne" utilisée
+         ftsynth.c
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\sal.h(156): warning C4001: extension non standard "commentaire sur une seule ligne" utilisée
+         ftsystem.c
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\sal.h(156): warning C4001: extension non standard "commentaire sur une seule ligne" utilisée
+     1>..\..\..\src\base\ftsystem.c(240): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : voir la déclaration de 'fopen'
+         fttype1.c
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\sal.h(156): warning C4001: extension non standard "commentaire sur une seule ligne" utilisée
+         ftwinfnt.c
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\sal.h(156): warning C4001: extension non standard "commentaire sur une seule ligne" utilisée
+         ftxf86.c
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\sal.h(156): warning C4001: extension non standard "commentaire sur une seule ligne" utilisée
+         Génération de code en cours...
+         Compilation en cours...
+         bdf.c
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\sal.h(156): warning C4001: extension non standard "commentaire sur une seule ligne" utilisée
+     1>c:\users\f.fournel\documents\visual studio 2013\projects\collisionengine\libs\freetype-2.4.10\src\bdf\bdflib.c(1982): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : voir la déclaration de 'sprintf'
+     1>c:\users\f.fournel\documents\visual studio 2013\projects\collisionengine\libs\freetype-2.4.10\src\bdf\bdflib.c(1995): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : voir la déclaration de 'sprintf'
+     1>c:\users\f.fournel\documents\visual studio 2013\projects\collisionengine\libs\freetype-2.4.10\src\bdf\bdflib.c(2317): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : voir la déclaration de 'sprintf'
+     1>c:\users\f.fournel\documents\visual studio 2013\projects\collisionengine\libs\freetype-2.4.10\src\bdf\bdflib.c(2325): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : voir la déclaration de 'sprintf'
+         ftcache.c
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\sal.h(156): warning C4001: extension non standard "commentaire sur une seule ligne" utilisée
+         cff.c
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\sal.h(156): warning C4001: extension non standard "commentaire sur une seule ligne" utilisée
+         type1cid.c
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\sal.h(156): warning C4001: extension non standard "commentaire sur une seule ligne" utilisée
+         ftgzip.c
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\sal.h(156): warning C4001: extension non standard "commentaire sur une seule ligne" utilisée
+         ftlzw.c
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\sal.h(156): warning C4001: extension non standard "commentaire sur une seule ligne" utilisée
+         pcf.c
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\sal.h(156): warning C4001: extension non standard "commentaire sur une seule ligne" utilisée
+         pfr.c
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\sal.h(156): warning C4001: extension non standard "commentaire sur une seule ligne" utilisée
+         psaux.c
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\sal.h(156): warning C4001: extension non standard "commentaire sur une seule ligne" utilisée
+         pshinter.c
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\sal.h(156): warning C4001: extension non standard "commentaire sur une seule ligne" utilisée
+         psmodule.c
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\sal.h(156): warning C4001: extension non standard "commentaire sur une seule ligne" utilisée
+         raster.c
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\sal.h(156): warning C4001: extension non standard "commentaire sur une seule ligne" utilisée
+         sfnt.c
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\sal.h(156): warning C4001: extension non standard "commentaire sur une seule ligne" utilisée
+         smooth.c
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\sal.h(156): warning C4001: extension non standard "commentaire sur une seule ligne" utilisée
+         truetype.c
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\sal.h(156): warning C4001: extension non standard "commentaire sur une seule ligne" utilisée
+         type1.c
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\sal.h(156): warning C4001: extension non standard "commentaire sur une seule ligne" utilisée
+         type42.c
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\sal.h(156): warning C4001: extension non standard "commentaire sur une seule ligne" utilisée
+         winfnt.c
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\sal.h(156): warning C4001: extension non standard "commentaire sur une seule ligne" utilisée
+         Génération de code en cours...
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I..\..\..\include /Zi /nologo /W4 /WX- /Od /Oy- /D _DEBUG /D WIN32 /D _LIB /D FT_DEBUG_LEVEL_ERROR /D FT_DEBUG_LEVEL_TRACE /D FT2_BUILD_LIBRARY /D _VC80_UPGRADE=0x0710 /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\..\..\..\objs\debug/" /Fd".\..\..\..\objs\debug/vc120.pdb" /Gd /TC /analyze- /errorReport:prompt ..\ftdebug.c
+         ftdebug.c
+     1>..\ftdebug.c(68): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : voir la déclaration de 'vsprintf'
+     1>..\ftdebug.c(82): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : voir la déclaration de 'vsprintf'
+     1>..\ftdebug.c(129): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdlib.h(462) : voir la déclaration de 'getenv'
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(1361,5): warning MSB8012: TargetPath(C:\Users\f.fournel\Documents\Visual Studio 2013\Projects\CollisionEngine\Libs\freetype-2.4.10\builds\win32\visualc\.\..\..\..\objs\debug\freetype.lib) does not match the Library's OutputFile property value (C:\Users\f.fournel\Documents\Visual Studio 2013\Projects\CollisionEngine\Libs\freetype-2.4.10\objs\freetype2410_D.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(1363,5): warning MSB8012: TargetName(freetype) does not match the Library's OutputFile property value (freetype2410_D). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"..\..\..\objs\freetype2410_D.lib" /NOLOGO .\..\..\..\objs\debug/autofit.obj
+         .\..\..\..\objs\debug/ftbase.obj
+         .\..\..\..\objs\debug/ftbbox.obj
+         .\..\..\..\objs\debug/ftbitmap.obj
+         .\..\..\..\objs\debug/ftfstype.obj
+         .\..\..\..\objs\debug/ftgasp.obj
+         .\..\..\..\objs\debug/ftglyph.obj
+         .\..\..\..\objs\debug/ftgxval.obj
+         .\..\..\..\objs\debug/ftinit.obj
+         .\..\..\..\objs\debug/ftlcdfil.obj
+         .\..\..\..\objs\debug/ftmm.obj
+         .\..\..\..\objs\debug/ftotval.obj
+         .\..\..\..\objs\debug/ftpatent.obj
+         .\..\..\..\objs\debug/ftpfr.obj
+         .\..\..\..\objs\debug/ftstroke.obj
+         .\..\..\..\objs\debug/ftsynth.obj
+         .\..\..\..\objs\debug/ftsystem.obj
+         .\..\..\..\objs\debug/fttype1.obj
+         .\..\..\..\objs\debug/ftwinfnt.obj
+         .\..\..\..\objs\debug/ftxf86.obj
+         .\..\..\..\objs\debug/bdf.obj
+         .\..\..\..\objs\debug/ftcache.obj
+         .\..\..\..\objs\debug/cff.obj
+         .\..\..\..\objs\debug/type1cid.obj
+         .\..\..\..\objs\debug/ftgzip.obj
+         .\..\..\..\objs\debug/ftlzw.obj
+         .\..\..\..\objs\debug/pcf.obj
+         .\..\..\..\objs\debug/pfr.obj
+         .\..\..\..\objs\debug/psaux.obj
+         .\..\..\..\objs\debug/pshinter.obj
+         .\..\..\..\objs\debug/psmodule.obj
+         .\..\..\..\objs\debug/raster.obj
+         .\..\..\..\objs\debug/sfnt.obj
+         .\..\..\..\objs\debug/smooth.obj
+         .\..\..\..\objs\debug/truetype.obj
+         .\..\..\..\objs\debug/type1.obj
+         .\..\..\..\objs\debug/type42.obj
+         .\..\..\..\objs\debug/winfnt.obj
+         .\..\..\..\objs\debug/ftdebug.obj
+         freetype.vcxproj -> C:\Users\f.fournel\Documents\Visual Studio 2013\Projects\CollisionEngine\Libs\freetype-2.4.10\builds\win32\visualc\.\..\..\..\objs\debug\freetype.lib
+     1>Génération du projet "C:\Users\f.fournel\Documents\Visual Studio 2013\Projects\CollisionEngine\Libs\freetype-2.4.10\builds\win32\visualc\freetype.vcxproj" terminée (Build cible(s)).
+
+La génération a réussi.
+
+Temps écoulé 00:00:03.33

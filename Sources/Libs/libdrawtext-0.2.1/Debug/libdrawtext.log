@@ -1,0 +1,8 @@
+﻿cl : ligne de commande warning D9035: l'option 'Gm' est déconseillée et sera supprimée dans une version ultérieure
+  utf8.c
+C:\Users\s.rampin\Desktop\Moteur Physic\CollisionEngine\Libs\libdrawtext-0.2.1\src\utf8.c(120,13): warning C4018: '<' : incompatibilité signed/unsigned
+  font.c
+C:\Users\s.rampin\Desktop\Moteur Physic\CollisionEngine\Libs\libdrawtext-0.2.1\src\font.c(31,10): fatal error C1083: Impossible d'ouvrir le fichier include : 'ft2build.h' : No such file or directory
+  drawgl.c
+C:\Users\s.rampin\Desktop\Moteur Physic\CollisionEngine\Libs\libdrawtext-0.2.1\src\drawgl.c(34,10): fatal error C1083: Impossible d'ouvrir le fichier include : 'GL/glew.h' : No such file or directory
+  Génération de code en cours...
